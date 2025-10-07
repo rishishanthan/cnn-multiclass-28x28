@@ -67,8 +67,13 @@ The model was trained for 30 epochs with early stopping enabled after convergenc
 - The model captured fine texture and shape features efficiently despite limited epochs.
 - Training from scratch provided interpretability over each layer’s contribution, a valuable learning experience beyond black-box fine-tuning.
 
+
+
 ## 🗝️ Results Summary
 - Achieved 87.6 % test accuracy on a custom-curated dataset.
 - Demonstrated smooth gradient propagation and stable learning.
 - Achieved balanced predictions across classes with no major bias.
 - Built a foundational CNN ready to be extended for VGG- and ResNet-style comparative studies (as done in Part 2).
+
+## 📂 Dataset
+- The dataset used in the project is in git release as a zip file.
